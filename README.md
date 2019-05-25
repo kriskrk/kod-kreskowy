@@ -1,8 +1,18 @@
 ## Witamy na stronie projektu "Kod kreskowy"
 
-Aplikacja jest skierowana do ludzi, który wybiuerają się do sklepu i chcą sprawdzać szczegółowe informacje o produktach za pomocą telefonu poprzez skoanowanie porduktów (kodów kresowych) naszą aplikacją.
+Aplikacja jest skierowana do ludzi, który wybierają się do sklepu i chcą sprawdzać szczegółowe informacje o produktach za pomocą telefonu poprzez skoanowanie porduktów (kodów kresowych) naszą aplikacją.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Przykładowy opis szczegółowy produktu Coca-Cola (po zeskanowaniu kodu kreskowego) :
+
+Wartości odżywcze w 100ml:
+1. Wartość energetyczna
+2. Białko
+3. Wenglowodany
+4. Tłuszcze
+5. Błonnik
+6. Producent
+
+
 
 ### Markdown
 
