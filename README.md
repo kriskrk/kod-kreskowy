@@ -41,4 +41,4 @@ Przejżystość prenzentowanych informacji o danym produkcie.
 1. [prototyp](https://help.github.com/categories/github-pages-basics/) 
 2. [aplikacja](https://help.github.com/categories/github-pages-basics/) 
 3. [zarządzanie projektem](https://help.github.com/categories/github-pages-basics/) 
-4. [repozytorium)](https://help.github.com/categories/github-pages-basics/) 
+4. [repozytorium](https://help.github.com/categories/github-pages-basics/) 
