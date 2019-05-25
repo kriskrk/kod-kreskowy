@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Witamy na stronie projektu "Kod kreskowy"
 
 You can use the [editor on GitHub](https://github.com/kriskrk/kod-kreskowy/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
