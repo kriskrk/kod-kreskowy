@@ -36,6 +36,9 @@ Przejżystość prenzentowanych informacji o danym produkcie.
 
 ![uml](https://user-images.githubusercontent.com/44546814/58367613-b15e4f00-7ee1-11e9-877a-939a836bdd70.png)
 
-### Support or Contact
+### Linki do składowych projektu
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. [prototyp](https://help.github.com/categories/github-pages-basics/) 
+2. [aplikacja](https://help.github.com/categories/github-pages-basics/) 
+3. [zarządzanie projektem](https://help.github.com/categories/github-pages-basics/) 
+4. [repozytorium)](https://help.github.com/categories/github-pages-basics/) 
