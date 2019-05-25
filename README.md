@@ -5,12 +5,12 @@ Aplikacja jest skierowana do ludzi, który wybierają się do sklepu i chcą spr
 Przykładowy opis szczegółowy produktu Coca-Cola (po zeskanowaniu kodu kreskowego) :
 
 <center>Wartości odżywcze w 100ml:</center>
-1. Wartość energetyczna
-2. Białko
-3. Wenglowodany
-4. Tłuszcze
-5. Błonnik
-6. Producent
+<center>1. Wartość energetyczna</center>
+<center>2. Białko</center>
+<center>3. Wenglowodany</center>
+<center>4. Tłuszcze</center>
+<center>5. Błonnik</center>
+<center>6. Producent</center>
 
 ![etykieta](https://user-images.githubusercontent.com/44546814/58367479-0600ca80-7ee0-11e9-9f2e-b30da8fbc7f1.jpg)
 
