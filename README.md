@@ -24,9 +24,17 @@ Przykładowy opis szczegółowy produktu Coca-Cola (po zeskanowaniu kodu kreskow
 
 
 
-### Jekyll Themes
+### Cel aplikacji
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kriskrk/kod-kreskowy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Aplikacja pozwala dotrzeć do szczegółowych informacji na temat danego produktu po zeskanowanniu jego kodu kreskowego.
+
+### Główne cechy
+
+Przejżystość prenzentowanych informacji o danym produkcie.
+
+### Zasadnicze funkcjonalności aplikacji
+
+![uml](https://user-images.githubusercontent.com/44546814/58367613-b15e4f00-7ee1-11e9-877a-939a836bdd70.png)
 
 ### Support or Contact
 
