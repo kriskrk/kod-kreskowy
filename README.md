@@ -12,11 +12,8 @@ Wartości odżywcze w 100ml:
 5. Błonnik
 6. Producent
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![etykieta](https://user-images.githubusercontent.com/44546814/58367479-0600ca80-7ee0-11e9-9f2e-b30da8fbc7f1.jpg)
 
-
-[Link](url) and ![Image](src)
 
 ### Markdown
 
