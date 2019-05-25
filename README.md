@@ -15,29 +15,14 @@ Przykładowy opis szczegółowy produktu Coca-Cola (po zeskanowaniu kodu kreskow
 ![etykieta](https://user-images.githubusercontent.com/44546814/58367479-0600ca80-7ee0-11e9-9f2e-b30da8fbc7f1.jpg)
 
 
-### Markdown
+### Skład zespołu projektowego
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Mateusz Podoba
+2. Krystian Żmuda
+3. Daniel Wrona
+4. Łukasz Kurnik
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
