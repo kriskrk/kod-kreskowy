@@ -1,6 +1,6 @@
 ## Witamy na stronie projektu "Kod kreskowy"
 
-You can use the [editor on GitHub](https://github.com/kriskrk/kod-kreskowy/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Aplikacja jest skierowana do ludzi, który wybiuerają się do sklepu i chcą sprawdzać szczegółowe informacje o produktach za pomocą telefonu poprzez skoanowanie porduktów (kodów kresowych) naszą aplikacją.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
