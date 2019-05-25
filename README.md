@@ -4,7 +4,7 @@ Aplikacja jest skierowana do ludzi, który wybierają się do sklepu i chcą spr
 
 Przykładowy opis szczegółowy produktu Coca-Cola (po zeskanowaniu kodu kreskowego) :
 
-Wartości odżywcze w 100ml:
+<center>Wartości odżywcze w 100ml:</center>
 1. Wartość energetyczna
 2. Białko
 3. Wenglowodany
